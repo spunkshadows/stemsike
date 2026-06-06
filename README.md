@@ -1,4 +1,4 @@
-# stemcoaxer  (NOT READY YET!! UNDER CONSTRUCTION)
+# stemcoaxer  (not available for use, under design/construction)
 
 **stemcoaxer analyzes audio stems from live performance and generates musician-friendly performance cues.**
 
