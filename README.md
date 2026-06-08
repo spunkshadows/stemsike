@@ -1,9 +1,8 @@
-# stemcoaxer  (not available for use, under design/construction)
+# stemsike  (not available for use, under design/construction)
 
-**stemcoaxer analyzes audio stems from live performance and generates musician-friendly performance cues.**
+**stemsike analyzes audio stems from live performance and generates musician-friendly performance cues.**
 
 **(a real-time extension for Reaper, a Digital Audio Workstation by Cockos Incorporated)**
-
 
 
 ## ✨ Features
@@ -22,11 +21,11 @@
 
 ## 🎮 Usage
 1.  Load live WAV stems into tracks.
-2.  Run action: **`stemcoaxer: Start live stem coaxing`**.
+2.  Run action: **`stemsike: Start live stem coaxing`**.
 3.  Follow on-screen cues or OSC output.
 4.  Adjust sensitivity via **`stemcoaxer: Settings`**.   
 
 ## 🛠 Dev
 Built with **Lua** (Reaper API v6.0+).
 ```bash
-git clone https://github.com/spunkshadows/stemcoaxer.git   
+git clone https://github.com/spunkshadows/stemsike.git   
